@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Clean the raw data 
-# Author: ABC
+# Author: Pu Yuan
 # Date: 10 April 2024
-# Contact: abc@mail.com
+# Contact: scott.yuan@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: none
 
