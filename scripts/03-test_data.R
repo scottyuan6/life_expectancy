@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Test cleaned data
-# Author: ABC
+# Author: Pu Yuan
 # Date: 10 April 2024
-# Contact: abc@mail.com
+# Contact: scott.yuan@mail.utoronto.ca
 # Pre-requisites: 02-data_cleaning.R
 
 
